@@ -1,0 +1,10 @@
+max_cids=100
+[CID_000...CID_099]
+max_xcats=10
+[XCAT_0...XCAT_9]
+max_adjs=10
+[ADJ_0...ADJ_9]
+max_metrics=5
+[METRIC_0...METRIC_4]
+max_dates=12000
+[DATE_0...DATE_11999]
