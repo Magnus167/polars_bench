@@ -25,4 +25,4 @@ df = (
 
 end = timer()
 print(f"Time: {end - start}")
-# Time: 15.347615900042001
+# Time: 15.347615900042001 seconds
